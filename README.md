@@ -34,17 +34,24 @@
 
 <h3 align="center">⚒️ Languages & Tools</h3>
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" />
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50" />
-    <img src="https://upload.wikimedia.org/2017/02/scikit_learn_logo_small.png" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="50" />
-    <img src="https://upload.wikimedia.org/2019/01/Keras_logo.svg" height="50" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" />
-  </marquee>
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+  <!-- NumPy -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+  <!-- Scikit-learn -->
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="50" height="50"/>
+  <!-- TensorFlow -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
+  <!-- Keras -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="50" height="50"/>
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="50"/>
+  <!-- Git -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </p>
+
 
 ---
 
@@ -63,16 +70,6 @@
 
 ---
 
-<h3 align="center">🎬 Data Science & ML in Action</h3>
-<p align="center">
-  <!-- Machine Learning -->
-  <img src="https://github.com/rajshah4/ml-gifs/blob/master/gifs/machine-learning.gif?raw=true" width="300" alt="Machine Learning"/>
-  
-  <!-- Deep Learning -->
-  <img src="https://github.com/rajshah4/ml-gifs/blob/master/gifs/deep-learning.gif?raw=true" width="300" alt="Deep Learning"/>
-  
-  <!-- Data Science -->
-  <img src="https://github.com/rajshah4/ml-gifs/blob/master/gifs/data-science.gif?raw=true" width="300" alt="Data Science"/>
-</p>
+
 
 
