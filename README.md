@@ -1,29 +1,78 @@
 <h1 align="center">Hi 👋, I'm Muntaha Yousaf</h1>
-<h3 align="center">Exploring Patterns, Building Models, Creating Insights | Data Science Enthusiast</h3>
+<h3 align="center">🚀 Data Science Enthusiast | Exploring Patterns, Building Models, Creating Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntahayousaf&label=Profile%20views&color=0e75b6&style=flat" alt="muntahayousaf" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muntahayousaf" alt="muntahayousaf" /></a> </p>
-
-- 💬 Ask me about **Python programming Data preprocessing & analysis Machine Learning models Deep Learning with TensorFlow & Keras**
-
-- 📫 How to reach me **muntahayousaf5@gmail.com**
-
-- 📄 **Know about my experiences**
--  Built multiple Data Science projects during learning phase Hands-on experience with Pandas, NumPy, Scikit-learn, TensorFlow, Keras
--  Strong foundation in EDA, regression, classification, and deep learning models
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muntaha-yousaf-73abb6324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muntaha-yousaf-73abb6324" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muntahayousaf&label=Profile%20views&color=0e75b6&style=flat" alt="muntahayousaf" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muntahayousaf&theme=onedark&no-frame=true&margin-w=15&row=1" alt="trophies" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntahayousaf&show_icons=true&locale=en&layout=compact" alt="muntahayousaf" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntahayousaf&show_icons=true&locale=en" alt="muntahayousaf" /></p>
+### 🌱 About Me  
+- 💬 Ask me about **Python, Data Preprocessing, Machine Learning, Deep Learning (TensorFlow & Keras)**  
+- 📫 Reach me at: **muntahayousaf5@gmail.com**  
+- 📄 Experiences:  
+  ✔ Built multiple **Data Science projects** during my learning phase  
+  ✔ Hands-on with **Pandas, NumPy, Seaborn, Scikit-learn, TensorFlow, Keras**  
+  ✔ Strong foundation in **EDA, Regression, Classification & Deep Learning Models**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&" alt="muntahayousaf" /></p>
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/muntaha-yousaf-73abb6324" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚒️ Languages & Tools</h3>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" />
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50" />
+    <img src="https://upload.wikimedia.org/2017/02/scikit_learn_logo_small.png" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="50" />
+    <img src="https://upload.wikimedia.org/2019/01/Keras_logo.svg" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" />
+  </marquee>
+</p>
+
+---
+
+<h3 align="center">🔥 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntahayousaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muntahayousaf&show_icons=true&theme=radical" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&theme=radical" alt="streak"/>
+</p>
+
+---
+
+<h3 align="center">🎬 Data Science & ML in Action</h3>
+<p align="center">
+  <!-- Machine Learning -->
+  <img src="https://github.com/rajshah4/ml-gifs/blob/master/gifs/machine-learning.gif?raw=true" width="300" alt="Machine Learning"/>
+  
+  <!-- Deep Learning -->
+  <img src="https://github.com/rajshah4/ml-gifs/blob/master/gifs/deep-learning.gif?raw=true" width="300" alt="Deep Learning"/>
+  
+  <!-- Data Science -->
+  <img src="https://github.com/rajshah4/ml-gifs/blob/master/gifs/data-science.gif?raw=true" width="300" alt="Data Science"/>
+</p>
+
 
