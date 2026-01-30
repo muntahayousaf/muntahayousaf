@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muntaha Yousaf</h1>
-<h3 align="center">🚀 Data Science Enthusiast | Exploring Patterns, Building Models, Creating Insights</h3>
+<h3 align="center">🚀 Data Analyst | Python, SQL, Power BI | Visualizing Insights & Building Dashboards</h3>
 
 ---
 
@@ -14,12 +14,14 @@
 ---
 
 ### 🌱 About Me  
-- 💬 Ask me about **Python, Data Preprocessing, Machine Learning, Deep Learning (TensorFlow & Keras)**  
+- 💬 Ask me about **Python, SQL, Power BI, Data Visualization, Machine Learning, Dashboards**  
+- 🎨 Also skilled in **Graphic Design (Photoshop, Illustrator, After Effects)**  
 - 📫 Reach me at: **muntahayousaf5@gmail.com**  
-- 📄 Experiences:  
-  ✔ Built multiple **Data Science projects** during my learning phase  
-  ✔ Hands-on with **Pandas, NumPy, Seaborn, Scikit-learn, TensorFlow, Keras**  
-  ✔ Strong foundation in **EDA, Regression, Classification & Deep Learning Models**  
+- 📄 Experiences & Projects:  
+  ✔ Built multiple **Data Analytics & ML projects**  
+  ✔ Hands-on with **Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn**  
+  ✔ Created **interactive dashboards** using **Power BI, Streamlit, Flask, FastAPI**  
+  ✔ Strong foundation in **EDA, Regression, Classification, Forecasting & Deep Learning Models**  
 
 ---
 
@@ -32,32 +34,37 @@
 
 ---
 
-<h3 align="center">⚒️ Languages & Tools</h3>
+<h3 align="center">⚒️ Skills & Tools</h3>
 <p align="center">
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
   <!-- Pandas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
   <!-- NumPy -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
   <!-- Scikit-learn -->
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="50" height="50"/>
-  <!-- TensorFlow -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
-  <!-- Keras -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="50" height="50"/>
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="50" height="50"/>
+  <!-- Streamlit -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/>
+  <!-- Flask -->
+  <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-icon.png" alt="flask" width="50" height="50"/>
+  <!-- FastAPI -->
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="50" height="50"/>
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="50"/>
   <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </p>
 
-
 ---
 
 <h3 align="center">🔥 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntahayousaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntahayousaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -67,9 +74,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&theme=radical" alt="streak"/>
 </p>
-
----
-
 
 
 
