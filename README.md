@@ -3,54 +3,64 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muntahayousaf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=muntahayousaf&theme=onedark&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🌱 About Me  
 - 💬 Ask me about **Python, SQL, Power BI, Data Visualization, Machine Learning, Dashboards**  
-- 🎨 Skilled in **Graphic Design (Photoshop, Illustrator, After Effects)**  
+- 🎨 Also skilled in **Graphic Design (Photoshop, Illustrator, After Effects)**  
 - 📫 Reach me at: **muntahayousaf5@gmail.com**  
 - 📄 Experiences & Projects:  
-  - Built multiple **Data Analytics & ML projects**  
-  - Hands-on with **Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn**  
-  - Created **interactive dashboards** using **Power BI, Streamlit, Flask, FastAPI**  
-  - Strong foundation in **EDA, Regression, Classification, Forecasting & Deep Learning Models**  
+  ✔ Built multiple **Data Analytics & ML projects**  
+  ✔ Hands-on with **Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn**  
+  ✔ Created **interactive dashboards** using **Power BI, Streamlit, Flask, FastAPI**  
+  ✔ Strong foundation in **EDA, Regression, Classification, Forecasting & Deep Learning Models**  
 
 ---
 
-### 🌐 Connect with me
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/muntaha-yousaf-73abb6324" target="_blank">
+  <a href="https://linkedin.com/in/muntaha-yousaf-73abb6324" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-### ⚒️ Skills & Tools
+<h3 align="center">⚒️ Skills & Tools</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+  <!-- NumPy -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+  <!-- Scikit-learn -->
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="50" height="50"/>
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="50" height="50"/>
+  <!-- Streamlit -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/>
+  <!-- Flask -->
+  <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-icon.png" alt="flask" width="50" height="50"/>
+  <!-- FastAPI -->
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="50" height="50"/>
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="50"/>
+  <!-- Git -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </p>
 
 ---
 
-### 🔥 GitHub Stats
+<h3 align="center">🔥 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntahayousaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=muntahayousaf&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&theme=radical" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muntahayousaf&show_icons=true&theme=radical" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&theme=radical" alt="streak"/>
 </p>
