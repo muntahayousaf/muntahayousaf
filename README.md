@@ -5,9 +5,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muntahayousaf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muntahayousaf&theme=onedark&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
@@ -18,14 +15,14 @@
 - 🎨 Skilled in **Graphic Design (Photoshop, Illustrator, After Effects)**  
 - 📫 Reach me at: **muntahayousaf5@gmail.com**  
 - 📄 Experiences & Projects:  
-  ✔ Built multiple **Data Analytics & ML projects**  
-  ✔ Hands-on with **Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn**  
-  ✔ Created **interactive dashboards** using **Power BI, Streamlit, Flask, FastAPI**  
-  ✔ Strong foundation in **EDA, Regression, Classification, Forecasting & Deep Learning Models**  
+  - Built multiple **Data Analytics & ML projects**  
+  - Hands-on with **Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn**  
+  - Created **interactive dashboards** using **Power BI, Streamlit, Flask, FastAPI**  
+  - Strong foundation in **EDA, Regression, Classification, Forecasting & Deep Learning Models**  
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+### 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/muntaha-yousaf-73abb6324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -34,7 +31,7 @@
 
 ---
 
-<h3 align="center">⚒️ Skills & Tools</h3>
+### ⚒️ Skills & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
@@ -51,24 +48,9 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Stats</h3>
+### 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntahayousaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muntahayousaf&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&theme=radical" alt="Streak Stats"/>
 </p>
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&theme=radical" alt="streak"/>
-</p>
-
-
-
