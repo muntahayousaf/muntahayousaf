@@ -15,7 +15,7 @@
 
 ### 🌱 About Me  
 - 💬 Ask me about **Python, SQL, Power BI, Data Visualization, Machine Learning, Dashboards**  
-- 🎨 Also skilled in **Graphic Design (Photoshop, Illustrator, After Effects)**  
+- 🎨 Skilled in **Graphic Design (Photoshop, Illustrator, After Effects)**  
 - 📫 Reach me at: **muntahayousaf5@gmail.com**  
 - 📄 Experiences & Projects:  
   ✔ Built multiple **Data Analytics & ML projects**  
@@ -37,34 +37,34 @@
 <h3 align="center">⚒️ Skills & Tools</h3>
 <p align="center">
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <!-- SQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
   <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
   <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
   <!-- Scikit-learn -->
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="50" height="50"/>
   <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" alt="Power BI" width="50" height="50"/>
   <!-- Streamlit -->
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" width="50" height="50"/>
   <!-- Flask -->
-  <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-icon.png" alt="flask" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/>
   <!-- FastAPI -->
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/>
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="50"/>
   <!-- Git -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 </p>
 
 ---
 
 <h3 align="center">🔥 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntahayousaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntahayousaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">
