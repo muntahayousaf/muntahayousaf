@@ -52,15 +52,6 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntahayousaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntahayousaf&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&theme=radical" alt="streak"/>
 </p>
