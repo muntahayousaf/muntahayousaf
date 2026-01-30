@@ -37,11 +37,9 @@
   <!-- Scikit-learn -->
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="50" height="50"/>
   <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" alt="Power BI" width="50" height="50"/>
   <!-- Streamlit -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/>
-  <!-- Flask -->
-  <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-icon.png" alt="flask" width="50" height="50"/>
   <!-- FastAPI -->
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="50" height="50"/>
   <!-- Seaborn -->
