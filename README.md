@@ -50,9 +50,8 @@
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muntahayousaf&theme=dark&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=muntahayousaf&theme=dark&hide_border=true)
+
 
