@@ -51,5 +51,6 @@
 ---
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark" />
 </p>
+
