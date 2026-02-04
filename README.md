@@ -50,7 +50,9 @@
 
 ---
 
+<h2 align="center">📊 GitHub Activity</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=muntahayousaf&theme=dark&hide_border=true" />
 </p>
 
