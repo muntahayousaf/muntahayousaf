@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahayousaf&theme=radical" alt="streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
 </p>
