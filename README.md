@@ -50,8 +50,11 @@
 
 ---
 
-## 📊 GitHub Activity
+<h3 align="center">📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=muntahayousaf&theme=dark&hide_border=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=muntahayousaf&show_icons=true)
+
+
 
 
