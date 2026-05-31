@@ -34,8 +34,7 @@ I am an **Aspiring Data Scientist and Data Analyst** passionate about transformi
 </p>
 
 ---
-
-### ⚒️ Skills & Tools  
+### ⚒️ Skills & Tools
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
@@ -43,7 +42,14 @@ I am an **Aspiring Data Scientist and Data Analyst** passionate about transformi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" width="50"/>
+<!-- Excel -->
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="50"/>
+
+<!-- SQL -->
+<img src="https://img.icons8.com/color/96/database.png" width="50"/>
+
+<!-- Power BI -->
+<img src="https://img.icons8.com/color/96/power-bi.png" width="50"/>
 
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50"/>
 
@@ -54,10 +60,9 @@ I am an **Aspiring Data Scientist and Data Analyst** passionate about transformi
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
 
 </p>
-
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntahayousaf&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuntahaYousaf&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
