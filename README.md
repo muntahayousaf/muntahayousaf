@@ -9,7 +9,7 @@
 ### 🌱 About Me  
 I am an **Aspiring Data Scientist and Data Analyst** passionate about transforming raw data into meaningful insights and business solutions.
 
-- 💬 Skilled in **Python, SQL, Power BI, Data Visualization & Machine Learning**
+- 💬 Skilled in **Python, SQL, Power BI, Pandas, Data Visualization & Machine Learning**
 - 📊 Experienced in **Exploratory Data Analysis (EDA), Predictive Modeling & Dashboards**
 - 🧠 Strong foundation in **Statistics, Data Cleaning, and Feature Engineering**
 - 🎨 Also experienced in **Graphic Design (Photoshop, Illustrator, After Effects)**
