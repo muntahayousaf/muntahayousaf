@@ -19,10 +19,9 @@ I am an **Aspiring Data Scientist and Data Analyst** passionate about transformi
 
 ### 📌 Projects & Experience  
 ✔ Built multiple **Data Analytics & Machine Learning projects**  
-✔ Hands-on with **Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn**  
-✔ Created **interactive dashboards using Power BI & Streamlit**  
-✔ Developed data-driven solutions using **Flask & FastAPI**  
-✔ Worked on **Regression, Classification, and Forecasting models**
+✔ Hands-on with **Pandas, Excel, Seaborn, Matplotlib, Scikit-learn**  
+✔ Created **interactive dashboards using Power BI**  
+✔ Worked on **Regression and Classification models**
 
 ---
 
