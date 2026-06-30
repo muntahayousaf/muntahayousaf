@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muntaha Yousaf</h1>
 
 <h3 align="center">
-🚀 Aspiring Data Scientist | Data Analyst | Python • SQL • Power BI • Machine Learning 
+🚀 Data Analyst | Python | SQL | Power BI | Excel | Machine Learning 
 </h3>
 
 ---
