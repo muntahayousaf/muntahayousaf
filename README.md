@@ -40,7 +40,6 @@ I am an **Aspiring Data Scientist and Data Analyst** passionate about transformi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
 
 <!-- Excel -->
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="50"/>
